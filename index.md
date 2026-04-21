@@ -7,7 +7,7 @@ title: HW5.2
 
 ## Links
 - [The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/licenses_fall2022.csv)
-- [The Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/Workbook.ipynb)
+- [The Analysis](https://github.com/roqayaelmenshawy2/hw5-is445/blob/main/Workbook.ipynb)
 
 ---
 

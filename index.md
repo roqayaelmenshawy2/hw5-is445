@@ -35,8 +35,17 @@ I added interactivity using Altair’s selection_point(). Users can click on a b
 
 ## Visualizations
 
-### Chart 1
-![Chart1](chart1.png)
+## Chart 1
+<div id="vis1"></div>
 
-### Chart 2
-![Chart2](chart2.png)
+## Chart 2
+<div id="vis2"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+<script>
+vegaEmbed('#vis1', 'chart1.json');
+vegaEmbed('#vis2', 'chart2.json');
+</script>
